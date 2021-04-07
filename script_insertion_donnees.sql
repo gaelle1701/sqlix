@@ -1,7 +1,7 @@
-INSERT INTO potion VALUES (1,'Potion magique n°1','NULL','Gui');
+INSERT INTO potion VALUES (1,'Potion magique n°1',NULL,'Gui');
 INSERT INTO potion VALUES (2,'Potion magique n°2','4V3C2VA','Vin');
 INSERT INTO potion VALUES (3,'Potion magique n°3','2C1B','Calva');
-INSERT INTO potion VALUES (4,'Potion Zen','NULL','Jus de Betterave');
+INSERT INTO potion VALUES (4,'Potion Zen',NULL,'Jus de Betterave');
 INSERT INTO potion VALUES (5,'Potion Anti Douleur','5C3J1T','Calva');
 
 INSERT INTO qualite VALUES (1,'Chef');

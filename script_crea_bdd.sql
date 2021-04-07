@@ -75,8 +75,8 @@ CREATE TABLE resserre (
 ENGINE=INNODB;
 
 CREATE TABLE categorie (
-	code_cat CHAR(30) NOT NULL UNIQUE,
-	mon_categ VARCHAR(50),
+	code_cat CHAR(3) NOT NULL UNIQUE,
+	nom_categ VARCHAR(50),
 	nb_points INT,
 	PRIMARY KEY (code_cat)
 )
